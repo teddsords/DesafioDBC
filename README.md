@@ -1,4 +1,4 @@
-# Dasafio DBC
+# Desafio DBC
 Este repositório foi criado para armazenar os códigos do desafio encaminhado pela DBC para o cliente Sicredi.
 
 ## Problema
