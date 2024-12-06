@@ -42,6 +42,10 @@ informações do associado. Um associado pode ter vários cartões e várias con
 ### Documentação extensa
 Para maiores detalhes sobre o desenvolvimento do desafio, por favor referi-se à documentação dentro do arquivo 'Desafio DBC.ipynb'. Na primeira celula é possível encontrar um markdown com o passo a passo detalhado de como foi realizado o desafio.
 
+
+### Utils Anonimizada
+O código da classe Utils foi anonimizado para não ter problemas de exposição de dados sensíveis, caso for necessário os dados podem ser passados por e-mail ou WhatsApp.
+
 ### Design escolhido
 O design escolhido foi devido ao fato de ter experiência com o Databricks e pelo poder de processamento para Big Data do mesmo. ele já consta com um ambiente pronto para desenvolver códigos para engenharia
 de dados junto com o Pyspark. Também foi escolhido o Azure Database for PostgreSQL devido à familiarização com esse serviço e com a nuvem Azure. Foi escolhido também trabalhar com a arquitetura medalhão 
